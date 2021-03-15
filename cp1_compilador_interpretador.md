@@ -47,5 +47,9 @@ O código fonte é pré compilado (passa por análise léxica e sintática) e vi
 
 <img src="img/interpretador_compilador.png">
 
+---
+
+# Fim
+
 
 
