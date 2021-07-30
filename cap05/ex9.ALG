@@ -1,0 +1,8 @@
+Algoritmo
+
+Var
+
+Inicio
+
+Fimalgoritmo
+
